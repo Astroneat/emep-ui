@@ -1,0 +1,105 @@
+{
+  "appIsExample": false,
+  "appLayout": {
+    "type": "FLUID"
+  },
+  "applicationDetail": {
+    "navigationSetting": {
+      "colorStyle": "light",
+      "logoAssetId": "",
+      "logoConfiguration": "logoOnly",
+      "navStyle": "sidebar",
+      "orientation": "side",
+      "position": "static",
+      "showNavbar": false,
+      "showSignIn": true
+    },
+    "themeSetting": {
+      "appMaxWidth": "LARGE",
+      "density": 1.0,
+      "sizing": 1.0
+    }
+  },
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "color": "#C7F3F0",
+  "evaluationVersion": 2,
+  "pages": [
+    {
+      "id": "Dashboard",
+      "isDefault": true
+    },
+    {
+      "id": "Authentication",
+      "isDefault": false
+    },
+    {
+      "id": "community",
+      "isDefault": false
+    },
+    {
+      "id": "genearte-eop",
+      "isDefault": false
+    },
+    {
+      "id": "confirm-eop",
+      "isDefault": false
+    },
+    {
+      "id": "confirmed-eop",
+      "isDefault": false
+    },
+    {
+      "id": "post_community_form",
+      "isDefault": false
+    },
+    {
+      "id": "admin_confirm_post",
+      "isDefault": false
+    },
+    {
+      "id": "chat-group",
+      "isDefault": false
+    },
+    {
+      "id": "list-eops",
+      "isDefault": false
+    },
+    {
+      "id": "admin_list_goods",
+      "isDefault": false
+    },
+    {
+      "id": "admin_list_volunteer",
+      "isDefault": false
+    },
+    {
+      "id": "admin_add_volunteer",
+      "isDefault": false
+    },
+    {
+      "id": "admin_add_goods",
+      "isDefault": false
+    }
+  ],
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
+  "unpublishedApplicationDetail": {
+    "navigationSetting": {
+      "colorStyle": "light",
+      "logoAssetId": "",
+      "logoConfiguration": "logoOnly",
+      "navStyle": "sidebar",
+      "orientation": "side",
+      "position": "static",
+      "showNavbar": false,
+      "showSignIn": true
+    },
+    "themeSetting": {
+      "appMaxWidth": "LARGE",
+      "density": 1.0,
+      "sizing": 1.0
+    }
+  }
+}

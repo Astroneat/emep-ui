@@ -1,0 +1,4 @@
+{
+	"flooodData": {{ inp_flood.text }},
+	"resourceData": {{inp_resource.text}}
+}

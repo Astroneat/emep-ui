@@ -1,0 +1,4 @@
+{
+    "floodData": {{this.params.floodData}},
+    "resourceData": {{this.params.resourceData}}
+}

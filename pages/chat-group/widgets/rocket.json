@@ -1,0 +1,45 @@
+{
+  "animateLoading": true,
+  "borderOpacity": 100,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "borderWidth": 1,
+  "bottomRow": 79,
+  "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "boxShadow"
+    }
+  ],
+  "dynamicPropertyPathList": [
+    {
+      "key": "onSrcDocChanged"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "flexVerticalAlignment": "start",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "jme4ayfb4x",
+  "leftColumn": 4,
+  "mobileBottomRow": 36,
+  "mobileLeftColumn": 4,
+  "mobileRightColumn": 28,
+  "mobileTopRow": 4,
+  "needsErrorInfo": false,
+  "onSrcDocChanged": "{{}}",
+  "parentColumnSpace": 13.484375,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 62,
+  "source": "http://34.67.28.143:10000/channel/general?layout=embedded&resumeToken=j7-v15CpFNvG3LrES24nS8aC5cZFyT-ctT-GEow2Z6O",
+  "topRow": 11,
+  "type": "IFRAME_WIDGET",
+  "version": 1,
+  "widgetId": "abi0y5zuhx",
+  "widgetName": "rocket"
+}

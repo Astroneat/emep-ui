@@ -1,0 +1,55 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 44,
+  "dynamicBindingPathList": [
+    {
+      "key": "truncateButtonColor"
+    },
+    {
+      "key": "fontFamily"
+    },
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "text"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTriggerPathList": [],
+  "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+  "fontSize": "0.875rem",
+  "fontStyle": "",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "lz6z9ifqfv",
+  "leftColumn": 1,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 31,
+  "mobileLeftColumn": 1,
+  "mobileRightColumn": 17,
+  "mobileTopRow": 27,
+  "needsErrorInfo": false,
+  "originalBottomRow": 45,
+  "originalTopRow": 37,
+  "overflow": "NONE",
+  "parentColumnSpace": 12.96875,
+  "parentId": "byexs03m7x",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 62,
+  "shouldTruncate": false,
+  "text": "Địa chỉ: {{appsmith.store.Community.location.address}}\nToạ độ:\n\t- Kinh độ: {{appsmith.store.Community.location.long}}\n\t- Vĩ độ: {{appsmith.store.Community.location.lat}}",
+  "textAlign": "LEFT",
+  "textColor": "#231F20",
+  "topRow": 36,
+  "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "4hmsx9d2x9",
+  "widgetName": "Text13"
+}
